@@ -36,7 +36,7 @@ Efficient state management for filtering and favorites functionality.
 
 Clone the repository:
 
-git clone https://github.com/sandhyasawalkar1999/rent-a-property.git
+git clone https://github.com/sandhyasawalkar1999/Property-App.git
 
 Navigate to the project folder:
 
