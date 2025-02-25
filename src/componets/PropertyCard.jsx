@@ -10,7 +10,7 @@ const PropertyCard = ({ property, toggleFavorite, isFavorite }) => {
   return (
     <>
 
-      <div className="border m-10 w-100 p-0 rounded-lg shadow-md bg-white">
+      <div className="border m-10 w-70 p-0 rounded-lg shadow-md bg-white">
         <div>
           <img src={property.image} alt={property.name} className="w-full h-80 object-cover rounded-md" />
 
