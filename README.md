@@ -1,10 +1,10 @@
-#Rent a Property - Single Page Real Estate Web App
+# Rent a Property - Single Page Real Estate Web App
 
-##Overview
+## Overview
 
 The Rent a Property web app is a single-page application built with React that allows users to search for rental properties based on multiple filters. Users can also add properties to a separate Favorites page for easy access. The app is designed with a user-friendly interface and leverages third-party CSS libraries for styling.
 
-##Features
+## Features
 
 Filtering Mechanism:
 
